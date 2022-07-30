@@ -1,2 +1,2 @@
 # C-Programming-Exercises
-It includes C programming exercises
+It includes C programming exercises.
